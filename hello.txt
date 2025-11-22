@@ -4,8 +4,8 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=Ryuisuke Library System
 
-game1=Ryuisuke Simple|libRyuisukeV3.so|Selected: Simple
+game1=Ryuisuke Simple|libRyuisukeSimple.so|Selected: Simple
 
-game2=Ryuisuke Lunaris|libRyuisukeLqunaris.so|Selected: Lunaris
+game2=Ryuisuke Lunaris|libLunarisInternal.so|Selected: Lunaris
 
-game3=Ryuisuke Hyperflux|libHyperflux.so|Selected: Hyperflux
+game3=Ryuisuke Hyperflux|libHyperflux2.so|Selected: Hyperflux
