@@ -9,3 +9,5 @@ game1=Ryuisuke Simple|libRyuisukeSimple.so|Selected: Simple
 game2=Ryuisuke Lunaris|libLunarisInternal.so|Selected: Lunaris
 
 game3=Ryuisuke Hyperflux|libHyperflux2.so|Selected: Hyperflux
+
+game4=TEST ONLY DONT USE|libHyperfluxTest.so|Selected: DONT USE THIS!!! THIS VERSION IS TEST ONLY, UNLESS YOU'RE WILLING TO RISK GETTING 10YEARS BAN.
